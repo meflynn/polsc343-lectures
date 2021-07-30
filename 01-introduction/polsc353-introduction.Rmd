@@ -6,7 +6,7 @@ institute: "Kansas State University"
 date: "`r Sys.Date()`"
 output:
   xaringan::moon_reader:
-    css: ["default", "/styles/lecture_theme.css"]
+    css: ["default", "../css/lecture_theme.css"]
     nature:
       highlightStyle: github
       highlightLines: true

@@ -1,0 +1,190 @@
+---
+title: "Class intro notes"
+output:
+  pdf_document: default
+  html_notebook: default
+fontsize: 12pt
+---
+
+
+# Overview
+
+- Introduce myself
+
+- Talk about my research interests
+
+  - US Foreign Policy
+  
+  - Military deployments
+  
+  - Partisanship and ideology
+  
+  
+  
+
+# Why take this class??
+
+- International relations affects your day to day life in so many ways
+
+  - Trade, migration, and investment: Touch your computer, clothes, etc. Some of this, if not all, was made overseas! Envision the hands of someone working in a Taiwanese factory making your iphone or your computer. 
+
+  - War and conflict: We live really close to two of the most important military installations in the US. Many of you may also have family who are affected by war and conflict through military service
+
+  - Global governance: Watching how the US and the world have responded to the COVID pandemic is a lesson in global governance. Science, technology, and policy communications evolve at an incredible rate, and sharing that information between governmental and private actors is incredibly important in responding to a pandemic like COVID.
+  
+  
+  
+
+# Class information
+
+First I want to go over some basic information about the course with you
+
+Specifics 
+
+  - Talk about COVID: I'd rather be doing this in person, but I think this is the safest thing we can do right now.
+  
+  - There's still a lot that we don't know, and the assumption that uncertainty is going to break in our favor is a pretty strong one.
+
+  - Office hours are by appointment, but don't let that discourage you
+  
+  - I'm always willing to make time to talk to students
+  
+  
+  
+# Contact
+
+Reiterate this point. I'm always available and happy to talk!
+
+
+
+# Contact Etiquette
+
+- That said, I do expect correspondence to be professional in tone. 
+
+- This holds for all different faculty and staff
+
+
+
+
+# Stuff you need
+
+Intro slide
+
+- Read the syllabus. All of the course details are there and it should answer most of your basic questiosn about the course.
+
+- This is going to be a mix of lecture and group-based discussion
+
+- Readings
+
+  - Talk about why I chose these books
+  
+  - Immerwahr provides a really unique perspective on US foreign policy. He covers a lot of material that other historians have covered, but he's up front about this. His biggest contribution is framing the question.
+  
+  - Brooks similarly brings a lot of information to her discussion of the contemporary US military, but a lot of this is also synthesized from other sources. Still, she threads a variety of different topics together in a really clear and concise way.
+  
+  - Cooley and Nexon is a new book and I haven't had a chance to read it yet. But they both do a lot of work on the international system, what it looks like, and how it functions. There's been a growing debate about the United States' status as a global hegemon, and this book tries to look at the US' current place in the international system, the challenges it faces, and what's likely to be ahead.
+  
+  
+  - There are also a bunch of different articles that relate to the weekly topics. I tried to find a mix of casual general audience readings, but also social scientific material, too.
+  
+  
+  
+  
+# Requirements
+
+
+Here's the breakdown of your grades
+
+- Weekly discussion will be the meat and potatoes. You'll get together in small groups of 6-7 students, each student will have a role for a given week, and you'll cycle through those roles each week so everyone gets to engage with different aspects of the readings.
+
+
+- There will also be short weekly quizzes. Each week you'll have a short reading assignment in addition to the normal weekly readings, then you'll have to complete a short 5-6 question quiz on that reading assignment. 
+
+
+- The weekly blog is designed to be more individually focused. You'll choose a broad topic area at the beginning of the semester (like alliances) and write a short weekly reflection piece on a news article related to that topic. 
+
+- The music of foreign policy wiki
+
+  - Talk about the arts and politics
+  
+  - Talk about my own experience with music and politics
+  
+  - The goal here is to have a longer-arc project that will help students dig into the political events underlying popular music
+  
+  - You can find more information in the syllabus
+  
+  
+  
+# Academics dishonesty and plagiarism
+
+Don't do it!
+
+- The consequences can be serious
+
+- Theres a lot more information in the syllabus so check it out.
+  
+  
+  
+# Classroom Conduct
+
+Expectations
+
+- Be kind: This is a particularly tough time for everyone, and we may not always see the ways our classmates are struggling.
+
+- Be thoughtful: Please make sure questions and comments pertain to the course material. Spouting off about some half-baked political belief isn't the same thing as offering up a careful comment of hypothesis.
+
+- Reach out if you need help!
+
+
+
+# Big Picture
+
+Some thoughts on the overarching takeaways of the course
+
+There are a few big topics that we'll cover over the next few months, but there are four "big ideas" that I want you to start thinking about
+
+- The national interest:
+
+  - Something you hear a lot about
+  
+  - A really bad term
+  
+  - Different individuals and groups have different interests and preferences.
+  
+  - Foreign policy affects these individual and groups differently
+  
+  
+- Politics stops at the water's edge
+
+  - Similar to the national interest, this piece of conventional wisdom asserts that foreign policy is "above" or immunite to politics, but the reality couldn't be further from the truth Everything is political--even foreign policy.
+  
+- Isolationism vs internationalism
+
+  - Policymakers and pundits often like to distill options or groups down into competing camps, and this is a really common one
+  
+  - True "isolationism" is really, really rare outside places like Feudal Japan.
+  
+  - Even people labeled as isolationists in US foreign policy are rarely, if ever, advocating a complete severing of ties with the outside world.
+  
+
+
+- Grand Strategy
+
+  - This one is less common in the public sphere, but it's really important
+  
+  - There's a belief that if only the US had the right "plan" it could succeed in "X" scenario
+  
+  - Reality is more difficult
+  
+  - Focus on the broad global conditions ignores context-specific incidents
+  
+  - It also tends to portray the situation as a decision-theoretic one in which the US is the only actor making choices, *not* as a strategic actor in a world of other strategic actors.
+
+
+
+
+# Conclusions
+
+- I hope this introduction covered most of your questions. But if you still have questions about the material, and it's not covered in the syllabus, please email me!
+
+
